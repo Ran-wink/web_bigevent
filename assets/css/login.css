@@ -23,3 +23,9 @@ body{
 .reg-box{
     display: none;
 }
+.layui-form {
+    padding: 0 30px;
+}
+#form_login {
+    padding-top: 60px;
+}
