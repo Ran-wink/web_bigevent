@@ -26,6 +26,22 @@ body{
 .layui-form {
     padding: 0 30px;
 }
-#form_login {
+/* #form_login {
     padding-top: 60px;
+} */
+.links{
+    display: flex;
+    justify-content: flex-end;
+}
+.layui-form-item{
+    position: relative;
+}
+.layui-icon{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.layui-input{
+    /* 为什么不可以使用magin */
+    padding-left: 30px;
 }
